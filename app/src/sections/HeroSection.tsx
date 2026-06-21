@@ -11,7 +11,7 @@ const slides = [
     badge: "BESTSELLER",
     headline: "Handpicked Kashmiri Walnuts — Nature's Brain Food",
     subline: "Sourced directly from Kashmir Valley orchards",
-    image: "https://images.unsplash.com/photo-1575481636764-7f226094aa96?w=1600&h=900&fit=crop",
+    image: "https://plus.unsplash.com/premium_photo-1726768984120-f476b15835f2?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     badge: "ORGANIC",
