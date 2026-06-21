@@ -17,7 +17,7 @@ const slides = [
     badge: "ORGANIC",
     headline: "Organic California Almonds — 100% Pesticide-Free",
     subline: "Certified USDA Organic • Non-GMO Project Verified",
-    image: "https://images.unsplash.com/photo-1524593656068-fbac72624bb0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    image: "https://images.unsplash.com/photo-1627820752174-acae1b399128?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     badge: "NEW ARRIVAL",
