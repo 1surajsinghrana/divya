@@ -17,19 +17,19 @@ const slides = [
     badge: "ORGANIC",
     headline: "Organic California Almonds — 100% Pesticide-Free",
     subline: "Certified USDA Organic • Non-GMO Project Verified",
-    image: "https://images.unsplash.com/photo-1613255348581-8237e6f84503?w=1600&h=900&fit=crop",
+    image: "https://images.unsplash.com/photo-1524593656068-fbac72624bb0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     badge: "NEW ARRIVAL",
     headline: "Sun-Dried Afghan Raisins — Nature's Sweetness",
     subline: "Traditionally dried under the Afghan sun",
-    image: "https://images.unsplash.com/photo-1596401057633-0f02cd18db7b?w=1600&h=900&fit=crop",
+    image: "https://images.unsplash.com/photo-1524593656068-fbac72624bb0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     badge: "FEATURED",
     headline: "The Royal Gift Box — Premium Mixed Dry Fruits",
     subline: "Curated selection for festive gifting",
-    image: "https://images.unsplash.com/photo-1604467707321-70c1b85d7cd5?w=1600&h=900&fit=crop",
+    image: "https://images.unsplash.com/photo-1614061810671-e6f5ff055104?q=80&w=1533&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     badge: "OUR STORY",
