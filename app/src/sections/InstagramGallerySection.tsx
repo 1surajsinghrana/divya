@@ -2,14 +2,14 @@ import Marquee from "react-fast-marquee";
 import { Instagram } from "lucide-react";
 
 const images = [
-  "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?w=400&h=400&fit=crop",
-  "https://images.unsplash.com/photo-1596386461350-326256694e69?w=400&h=400&fit=crop",
-  "https://images.unsplash.com/photo-1606923829579-0cb9d4d9b0?w=400&h=400&fit=crop",
-  "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=400&h=400&fit=crop",
-  "https://images.unsplash.com/photo-1604467707321-70c1b85d7cd5?w=400&h=400&fit=crop",
-  "https://images.unsplash.com/photo-1613255348581-8237e6f84503?w=400&h=400&fit=crop",
-  "https://images.unsplash.com/photo-1575481636764-7f226094aa96?w=400&h=400&fit=crop",
-  "https://images.unsplash.com/photo-1599599810694-b5b37304c041?w=400&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1601599561213-832382fd07ba?w=400&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1574570068037-5a7973d2bf5e?w=400&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1607305387299-a3d9611cd469?w=400&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?w=400&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?w=400&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1515543904379-3d757e8a89b8?w=400&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=400&fit=crop",
 ];
 
 export default function InstagramGallerySection() {
