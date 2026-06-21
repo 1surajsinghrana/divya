@@ -3,12 +3,12 @@ import { Instagram } from "lucide-react";
 
 const images = [
   "https://images.unsplash.com/photo-1601599561213-832382fd07ba?w=400&h=400&fit=crop",
-  "https://images.unsplash.com/photo-1574570068037-5a7973d2bf5e?w=400&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1648178630847-b857b1a6f45d?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   "https://images.unsplash.com/photo-1607305387299-a3d9611cd469?w=400&h=400&fit=crop",
   "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?w=400&h=400&fit=crop",
   "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400&h=400&fit=crop",
   "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?w=400&h=400&fit=crop",
-  "https://images.unsplash.com/photo-1515543904379-3d757e8a89b8?w=400&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1573555657105-47a0bb37c3ea?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=400&fit=crop",
 ];
 
